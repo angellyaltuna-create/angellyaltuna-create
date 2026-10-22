@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="Angelly Altuna, analista de sistemas">
+  <rect width="900" height="280" rx="20" fill="#f7f7f5"/>
+  <rect x="0.5" y="0.5" width="899" height="279" rx="19.5" fill="none" stroke="#e4e4e0"/>
+
+  <!-- pill -->
+  <rect x="368" y="34" width="164" height="28" rx="14" fill="#ffffff" stroke="#e4e4e0"/>
+  <circle cx="390" cy="48" r="4" fill="#111111"/>
+  <text x="404" y="53" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#444444">Lima, Perú</text>
+
+  <!-- title -->
+  <text x="450" y="124" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" fill="#111111" letter-spacing="-1">Hola, soy Angelly,</text>
+  <text x="450" y="182" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" fill="#111111" letter-spacing="-1">analista de sistemas.</text>
+
+  <!-- subtitle -->
+  <text x="450" y="226" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#666666">Análisis funcional · Requerimientos · SQL · Scrum</text>
+  <text x="450" y="250" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#999999">Java &amp; Spring Boot</text>
+</svg>
