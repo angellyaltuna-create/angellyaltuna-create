@@ -1,21 +1,15 @@
 <div align="center">
 
-<br>
-
-# Angelly Altuna
-
-*Analista de Sistemas.*
-
-Análisis funcional · Requerimientos · SQL · Scrum<br>
-Java & Spring Boot
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Angelly Altuna, analista de sistemas" width="100%">
+</picture>
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angellyaltuna)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:angellyaltuna@gmail.com)
 [![Certificados](https://img.shields.io/badge/Certificados-000000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1uh8bHtzTBr5aY4B4kZL0KXKWo_CglOZO?usp=drive_link)
-
-<sub>Lima, Perú</sub>
 
 <br>
 
